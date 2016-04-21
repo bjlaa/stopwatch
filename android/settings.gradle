@@ -1,0 +1,3 @@
+rootProject.name = 'stopwatch1'
+
+include ':app'
